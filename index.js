@@ -1,8 +1,6 @@
 // write your code below!
-function function(string) {
-  Return 'happyHolidays'
-}
-function happyHolidays(string) {
+
+function happyHolidaysto(string) {
   if (string === 'happyHolidays')
   return "Happy holidays!"
 }
