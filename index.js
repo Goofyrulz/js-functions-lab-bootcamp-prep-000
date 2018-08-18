@@ -1,7 +1,7 @@
 // write your code below!
 
-function happyHolidaysto(string) {
-  return '"Happy holidays!" + $string'
+function happyHolidays(string) {
+  return '"Happy holidays!" + $(string)'
 }
 
 
