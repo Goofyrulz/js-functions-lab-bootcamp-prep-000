@@ -1,6 +1,6 @@
 // write your code below!
 function function(string) {
-  Return 'happy Holidays'
+  Return 'happyHolidays'
 }
 function happyHolidays(string) {
   if (string === 'happyHolidays')
